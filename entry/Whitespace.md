@@ -4,12 +4,12 @@ when the top bots are apparently throttled) is kinda mildly entertaining,
 and has been the real reason I've finally created this "blog" repo. I'd
 just had this "incognito" (i.e.temporary) chat open in a browser tab, and
 didn't want it to vanish forever on closing; so I needed a clipboard-like
-place to save it to — especially as this exact thing has already happeneed
+place to save it to — especially as this exact thing has already happened
 a billion times already, so... enough is enough! I needed (yet another...) blog.
 
 #### NOTE:
 
-I couldn't be bothered to weed out all the usual sycophanty from the
+I couldn't be bothered to weed out all the usual sycophancy from the
 responses, so if it feels like I've deliberately harvested that to inflate my
 ego out of narcissism, well... It isn't that. This probably also happens to you,
 BTW, all the time, so you already know that. Right?
